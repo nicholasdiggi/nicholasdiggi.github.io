@@ -1,0 +1,15 @@
+:root {
+    --accent: #E94F37;
+    --white-color: #C1EDCC;
+    --c2: #055864;
+    --c3: #B0C0BC;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
