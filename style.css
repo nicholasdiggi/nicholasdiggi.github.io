@@ -93,3 +93,30 @@ main {
     display: flex;
     justify-content: center;
 }
+
+#contact {
+    height: calc(100vh - 75px);
+    width: 100%;
+    background-color: var(--c2);
+    color: var(--white-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#contact h1 {
+    font-size: 2rem;
+}
+
+.profile-links {
+    display: flex;
+    justify-content: center;
+}
+
+.profile-links a {
+    padding: 1rem;
+}
+
+.fab {
+    font-family: "Font Awesome 5 Brands";
+}
